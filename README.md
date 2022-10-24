@@ -7,6 +7,6 @@ Who is Svenn kristoff berg
 - 🌱 I’m currently learning: Flutter & Python 
 - 📫 How to reach me: Mail: skb@markvn10.com
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I'm a mountain bike 
+- ⚡ Fun fact: I'm a mountain biker 
 - 🌍 I'm from: Norway 
 
