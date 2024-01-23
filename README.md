@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-Who is Svenn kristoff berg 
+Who is Svenn Kristoff Berg 
 
 - 🔭 I’m currently working on: Flutter and an F1 Web pages
 - 🌱 I’m currently learning: Flutter & Python 
